@@ -9,4 +9,4 @@ The goal of this project is to create a recommendation system that allows users 
 
 
 <br>
-<img src="https://github.com/Lahari25/SpotClone/blob/main/interface.jpg" width="950" height="400">
+<img src="https://github.com/Lahari25/SpotClone/blob/main/interface.jpg" width="650" height="400">
